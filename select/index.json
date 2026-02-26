@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "this is what sadness feels like",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-26T17:20:59.519934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "this is what sadness feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/01_this_is_what_sadness_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "this is what sadness feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/02_this_is_what_sadness_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "JVKE - this is what sadness feels like (official visualizer)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/03_JVKE_-_this_is_what_sadness_feels_like_(official_visualizer)_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "JVKE - this is what sadness feels like (Lyrics)",
+      "artist": "Lazy Fox",
+      "has_synced": true,
+      "path": "select/04_JVKE_-_this_is_what_sadness_feels_like_(Lyrics)_Lazy_Fox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "JVKE - this is what sadness feels like (official visualizer)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/05_JVKE_-_this_is_what_sadness_feels_like_(official_visualizer)_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "this is what sadness feels like",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/06_this_is_what_sadness_feels_like_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "this is what sadness feels like - shortened",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/07_this_is_what_sadness_feels_like_-_shortened_JVKE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "this is what sadness feels like (Instrumental)",
+      "artist": "JVKE",
+      "has_synced": true,
+      "path": "select/08_this_is_what_sadness_feels_like_(Instrumental)_JVKE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "this is what sadness feels like",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_this_is_what_sadness_feels_like_JVKE.txt"
+    }
+  ]
+}
