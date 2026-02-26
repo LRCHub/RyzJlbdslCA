@@ -1,0 +1,48 @@
+# JVKE – this is what sadness feels like
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.10] Roses red and
+[00:15.51] Violets lookin' blue like me
+[00:18.03] So poetic
+[00:23.06] So pathetic
+[00:25.56] To think I ever thought you'd be
+[00:28.30] Sympathetic
+[00:33.80] 
+[00:32.02] I know you don't care at all
+[00:39.79] Please don't ask how I been
+[00:42.28] I ain't heard from you in months
+[00:49.76] So don't call me a friend when you're not
+[01:10.26] 
+[00:55.43] So I'm just gon' put on a sad song
+[01:00.54] And sit in my room with the lights off
+[01:05.64] And put on a face that I won't show anyone
+[01:26.64] 
+[01:15.88] Yeah I'm just gon' put on a sad song
+[01:20.96] And cry out my eyes til the nights gone
+[01:26.10] And put on a face that I won't show anyone
+[01:47.10] 
+[01:35.49] So don't call me a friend when you're not
+[01:55.99] 
+[01:45.54] So don't call me a friend when you're not
+[01:55.57] So don't call me a friend when you're not
+[02:16.07] 
+[02:20.31] Feeling depressed, yeah, I been dealing with stress
+[02:22.48] These demons they fight me
+[02:23.78] Cut out the fakes, yeah, I been dealing with snakes
+[02:25.81] And they try to bite me
+[02:27.18] I been down so bad, with nobody near me
+[02:30.40] I been down so sad, can anyone hear me?
+[02:34.35] I turned my back, I got stabbed
+[02:42.75] I'm so sad, sad
+[02:50.25] 
+[02:47.36] Feeling depressed, yeah, I been dealing with stress
+[02:49.38] These demons they fight me
+[02:50.68] Cut out the fakes, yeah, I been dealing with snakes
+[02:52.65] And they try to bite me
+[02:53.97] I been down so bad, with nobody near me
+[02:57.47] I been down so sad, can anyone hear me?
+[03:16.97] 
+[03:04.09] I been down so sad
+```
